@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="moveit" title="moveit" src="public/logo-full.svg" width="220px" />
+  <img alt="moveit" title="moveit" src="moveit-next/public/logo-full.svg" width="220px" />
 </h1>
 
 <p align="center">
